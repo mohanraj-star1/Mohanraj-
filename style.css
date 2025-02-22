@@ -1,0 +1,48 @@
+.h1{
+  
+  margin-top: 0px;
+  display: block;
+  color: green;
+  text-decoration: underline;
+  text-decoration-color: black;
+  
+}
+
+.h2{
+  
+  color: orangered;
+  margin-left: 0px;
+  margin-top: 5%;
+  text-decoration: underline;
+  text-decoration-color: black;
+  
+}
+
+.paragraph{
+  
+  color: blue;
+  border-color: red;
+  text-decoration: underline;
+  display: block;
+  border-top-color: greenyellow;
+  
+}
+
+.tphoto{
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachement: fixed;
+  
+}
+
+.paragraph2{
+  
+  color: blue;
+  border-color: red;
+  text-decoration: underline;
+  display: block;
+  border-top-color: greenyellow;
+  
+}
